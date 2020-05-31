@@ -1,29 +1,6 @@
-# 2019-2020 年度考核作品集上传要求
-
-- 1、作品源码 + 作品介绍文件（markdown文件）
-- 2、如果作品属中大型工程级别，请将作品上传到自己的 GitHub 仓库，作品自述文件请传一份到这里（附作品仓库外链）
-
-> 评判中大型工程：如果你的作品源文件有这么多（虽然这也不多）：https://github.com/seven-innovation-base/official-website
-
-熟悉 Git 的同学请用 Git 上传，不熟悉的同学可进行如下操作（暴力拖拉）：
-
-![无脑上传示例](https://mypic-1258313760.cos.ap-guangzhou.myqcloud.com/img/20200529230011.gif)
-
-Gif 地址：https://mypic-1258313760.cos.ap-guangzhou.myqcloud.com/img/20200529230011.gif
-
-**注意，没有 owner 权限的同学是不可以直接上传的，需要 fork 本仓库发起 [pull request](https://github.com/seven-innovation-base/Git2Github-practice#%E5%8D%8F%E4%BD%9C%E4%B9%8B%E9%81%93pr) 才可。**
-
-权限查看：https://github.com/orgs/seven-innovation-base/people
-
-![权限查看](https://mypic-1258313760.cos.ap-guangzhou.myqcloud.com/img/20200529231706.png)
-
-## 作品自述文件示例
-
-- 花里胡哨型：[https://github.com/MrGo123/StudentCompanyManageSystem](https://github.com/MrGo123/StudentCompanyManageSystem)
-- 沉着冷静型：[https://github.com/seven-innovation-base/dubbo-demo](https://github.com/seven-innovation-base/dubbo-demo)
-- 后续发展型：[https://github.com/seven-innovation-base/SphinxDOC](https://github.com/seven-innovation-base/SphinxDOC)
-
-**作品源码核心逻辑 + 效果截图**
-
-> Markdown 语法参考：https://guides.github.com/features/mastering-markdown/
-> Git 协作参考：https://github.com/seven-innovation-base/Git2Github-practice
+学习游戏的认识
+游戏已经存在于世界近百年了，有大大小小的优秀作品，游戏只不过是作者想把脑海里的东西挖掘出来，然后再以游戏的方式展现给大家看
+       游戏开发得好的话，比如《以撒的结合》就卖出了近千万份，卖得是相当的火爆，可见游戏其实也并不一定在乎你的游戏画质和游戏特效，比如在画质上他比不过上古卷轴系列，而在乎你游戏内容是否深刻，玩法是否简单而且有趣，虽然以撒的结合只是一个小小的游戏，但他讲述了一个母亲信教，然后一个悲惨的故事。游戏就应该这样意义深刻，让人反思。而且以撒的结合在操作上，还有许多方面都有着独特之处。这就是为什么它能够成功的原因，在这个浮躁的社会，无脑的操作还有那些让人眼花缭乱的游戏特效是这个快餐式游戏的标准特征，而真正可以走红的游戏确不是这些游戏，能勾起一个人记忆和回忆的必将是那些有着深刻内涵的游戏。
+该作品《印斯茅斯小镇》是由我和谭前程一起完成的，因为我和他都热爱游戏，所以打算一起完成一个作品，该作品讲述一个好奇的人探索印斯茅斯小镇的故事。该游戏的背景来自于著名克苏鲁小说《印斯茅斯暗隐》，我和陈越共同弄的代码，这个代码的核心在于该游戏的移动方面，我们可以利用wasd键来操控主人公移动，进行地图探索购买物品，我们利用键盘输入asdw来改变地图，事实上我们的是利用改变地图的方式来让主人公移动
+每次检索用户输入的是w，a，s还是d通过判断玩家代表的0之后处于的格子是否满足地图的要求，然后刷新地图，重新打印来实现看起来像移动的目的。
+代码较为简陋，希望学长们海涵。。。🤢
